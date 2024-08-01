@@ -84,7 +84,7 @@ def main():
 
             print(f"AUC: {roc_auc:.2f}")
         else:
-            print("Phenotype not exists...")
+            print("Phenotype doesn't exist...")
 
     if args.save != None:
         np.save(args.save,output)
@@ -95,4 +95,4 @@ if __name__ == "__main__":
 
 
 # Sample code to run
-# python /home/ozdemiro/Codes/GitHub/getPRSresult.py --disease Hypertension --pheno ./Data/PhenoFiles/Hypertension --save .outputResult.npy
+# python /home/ozdemiro/Codes/GitHub/getPRSresult.py --disease Hypertension --pheno ./Data/PhenoFiles/Hypertension --save outputResult.npy
