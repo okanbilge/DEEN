@@ -20,10 +20,13 @@ Data Preparation
 1. Raw Data: Ensure all 22 chromosome raw data files are placed under the appropriate disease folder within ./RawFiles/DiseaseName/.
 2. Phenotype Files: Place your phenotype files in the ./Data/PhenoFiles folder.
 
-Note: The sample data is created with: 
+Note: The patient data is entirely self-generated, but the SNP names are kept original for later use. The sample patient data is generated with: 
 
 values = ["0", "1", "2", "NA"]
 probabilities = [0.6, 0.25, 0.13, 0.02]
 
-You can download Hypertension models from
+You can download models from 
 
+https://drive.google.com/file/d/1boUlV0rcFequASN-e0E7oLO0vhgwr9ha/view?usp=sharing
+
+and place it under Models folder.
