@@ -25,8 +25,41 @@ Note: The patient data is entirely self-generated, but the SNP names are kept or
 values = ["0", "1", "2", "NA"]
 probabilities = [0.6, 0.25, 0.13, 0.02]
 
+## Maintainers
+
+- **Okan Bilge Ozdemir** (Lead developer, primary maintainer)  
+  Cedars-Sinai Medical Center
+
+## Project leadership
+
+- **Prof. Ruowang Li** (Principal Investigator, scientific supervision)  
+  Cedars-Sinai Medical Center
+
+## Contributions
+
+- Okan Bilge Ozdemir: implemented the full codebase, experiments, and evaluation pipeline; organized the repository for reproducibility.
+- Prof. Li: provided research direction, feedback on methodology, and oversight of the project.
+
+## Citation
+
+If you use this repository in academic work, please cite:
+
+Ozdemir, O.B., Chen, R., Wu, O., et al. A deep ensemble encoder network method for improved polygenic risk score prediction. *BioData Mining* (2026). https://doi.org/10.1186/s13040-026-00521-9
+
+```bibtex
+@article{ozdemir2026deen,
+  title   = {A deep ensemble encoder network method for improved polygenic risk score prediction},
+  author  = {Ozdemir, O. B. and Chen, R. and Wu, O. and others},
+  journal = {BioData Mining},
+  year    = {2026},
+  doi     = {10.1186/s13040-026-00521-9}
+}
+
+
+
 You can download models from 
 
 https://drive.google.com/file/d/1boUlV0rcFequASN-e0E7oLO0vhgwr9ha/view?usp=sharing
+
 
 and place it under Models folder.
