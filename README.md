@@ -59,7 +59,6 @@ Ozdemir, O.B., Chen, R., Wu, O., et al. A deep ensemble encoder network method f
 
 You can download models from 
 
-https://drive.google.com/file/d/1boUlV0rcFequASN-e0E7oLO0vhgwr9ha/view?usp=sharing
-
+https://drive.google.com/drive/folders/1gGvt-pcap5iK_XIZ3c0knT-oY2eF1eiP?usp=sharing
 
 and place it under Models folder.
